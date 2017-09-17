@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Getting stuck"
+date:   2017-09-17 15:30:19 +0000
+---
+
+
+Until last week I've been extremely pleased with the progress that I've made working my way through the program part time. I've developed a habit of asking and answering questions out loud while watching the prerecorded lecture videos, I read through all of the lecture notes and the supplementary material. I do the code alongs and take notes. I set aside time every day for the inevitable digressions and distractions that arise when I read something that may prove useful in the future or to just read through the ruby docs so that I can become more familiar with various methods and data types. The biggest challenge has been finding a balance between coding and the rest of my life. 
+
+When I first signed up for the online development course, I looked at the curriculum and put in for a vacation week at the beginning of September in the hope that during that week I would be on the Final Projects section of the Ruby module. I busted my ass so I could spend a single week coding full time. The OO lecture videos were excellent preparation for the first task and I ripped through the Music Library CLI in a few hours. Day 2 of my full time coding vacation was spent writing/refactoring OO Tic Tac Toe and by the evening I was passing all of the tests and had a fully functional CLI game in which the AI would make random valid moves.  Day 3 was dedicated to creating an AI that would play against a human or itself with a degree of skill but resulted in 12 hours of "Stack Level too Deep". On day 4 I refactored and eventually rewrote most of my code and 15 hours later my entire program was completely broken. Day 5 was dedicated to getting the tests passing again and finally I was able to implement slightly more advanced code for the AI to use. At this point I had attempted  and subsequently deleted a dozen different algorithims for the AI to choose moves, unfortunately none of them would have worked with my program when I was initially passing the tests. I deleted so much code out of frustration and I didn't have the energy left to rewrite it. I put together a few simple methods for the computer to play with a degree of skill and satisfy the miniumum requirement for the project and then I took a nap. 
+
+I don't have a tidy discourse on what turned into a particularly challenging lab or a comprehensive summary of a topic as I've grown to understand it. There is no step-by-step analysis of how I eventually completed this project, I hammered away at it until it fit. I was utterly defeated and I am dreading whatever notes are eventually left alongside my final pull request. If I learned anything from this project its this: Every choice matters. The compiler doesn't "know what you meant", only the code its told to execute. Coding is a craft and its either done well or its wrong. 
+
+
