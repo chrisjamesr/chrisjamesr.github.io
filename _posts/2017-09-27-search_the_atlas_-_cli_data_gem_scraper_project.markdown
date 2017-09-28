@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Search The Atlas - CLI Data Gem Scraper Project"
-date:   2017-09-28 00:38:42 +0000
+date:   2017-09-27 20:38:43 -0400
 ---
 
 
