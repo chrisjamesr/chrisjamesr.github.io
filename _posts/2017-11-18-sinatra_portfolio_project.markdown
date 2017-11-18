@@ -11,8 +11,7 @@ permalink:  sinatra_portfolio_project
 		 
 		 The problem with my Sinatra app, like the majority of the problems I encounter writing code, was in the most obvious of details. The completed, working code for my object model shown below utilizes a callback to a for a method in a separate module. 
 		 
-```require 'wikipedia'
-
+```
 class Bird < ActiveRecord::Base
   extend Wiki::ClassMethods
   include Wiki::InstanceMethods
