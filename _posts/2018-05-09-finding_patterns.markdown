@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finding Patterns"
-date:       2018-05-10 00:58:51 +0000
+date:       2018-05-09 20:58:51 -0400
 permalink:  finding_patterns
 ---
 
