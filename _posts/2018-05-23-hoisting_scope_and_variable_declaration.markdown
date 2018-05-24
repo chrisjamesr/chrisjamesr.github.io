@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hoisting, Scope, and Variable Declaration"
-date:       2018-05-24 01:06:52 +0000
+date:       2018-05-23 21:06:52 -0400
 permalink:  hoisting_scope_and_variable_declaration
 ---
 
